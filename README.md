@@ -1,1 +1,1 @@
-# readypool
+# readypool is our cardano stakepool
